@@ -109,14 +109,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=xesul&show_icons=true&locale=en&layout=compact" alt="xesul" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=xesul&show_icons=true&locale=en" alt="xesul" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xesul&" alt="xesul" />
 </p>
 
